@@ -1,0 +1,4 @@
+{
+    "python.dataScience.jupyterServerURI": "local",
+    "python.pythonPath": "/home/kai/anaconda3/envs/ml_labs/bin/python"
+}

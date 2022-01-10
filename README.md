@@ -1,2 +1,3 @@
-# machine-learning-labs
-Jupyter notebooks for COMS30035 Machine Learning
+# machine-learning
+
+Series of Jupyter Notebooks exploring Machine Learning methods.
